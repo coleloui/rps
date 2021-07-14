@@ -1,0 +1,25 @@
+{
+	"name": "rps",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"run": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/coleloui/rps.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/coleloui/rps/issues"
+	},
+	"homepage": "https://github.com/coleloui/rps#readme",
+	"dependencies": {
+		"dotenv": "^10.0.0",
+		"inquirer": "^8.1.2"
+	}
+}
